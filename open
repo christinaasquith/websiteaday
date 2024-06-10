@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>websiteaday</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+
+<body>
+
+<div>
+<a href="open.html">Home</a>
+<a href="day2.html">day2</a>
+</div>
+
+<div>
+<h1>The Next Day</h1>
+<p>Here's what I learned today</p>
+<!-- adding hotlinks and images -->
+<p>Every day I'll post a new site including new stuff I learned going through <a href="https://www.learnenough.com/"> Michael Hartle's tutorial</a>. At the same time, I'm putting <span style="font-style: normal; font-size:24px; font-weight:bold; color:#ff000;"> freshly made bread</span> in the over. That means I only have 30 mins to build this site every morning while the dough is cooking, plus a bonus 15 minutes with the lid off the Dutch oven. </p>
+<img src="bread.jpg" alt="baked bread" height="200px" style="float: left" margin:100px;>
+<p>    At the end, I'll have practiced new CSS and HTML, plus command line, Git, VIM and text editors. Plus I'll have new bread.</p>
+</div>
+<h2>This is the first day<h2>
+
+
+</body>
+</html>
+
+
